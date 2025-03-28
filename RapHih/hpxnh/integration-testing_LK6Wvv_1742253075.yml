@@ -12,7 +12,6 @@ go:
   - master
 
 install:
-  - go get -t ./...
 
 before_script: ./check_third_party.sh
 script: go test -short -v ./...
