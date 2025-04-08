@@ -95,7 +95,6 @@ Take the chaos component as an example and execute it in the main directory of r
 ```./release.sh chaos```
 
 #### Package and compile the complete installation package
-
 Compile the complete installation package, which is suitable for rebuilding the installation package after many source code changes. Execute in the main record of rainbond code
 
 ```./release.sh all```
