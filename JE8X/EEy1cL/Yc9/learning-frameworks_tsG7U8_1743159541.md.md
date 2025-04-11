@@ -81,7 +81,6 @@ See example installation below:
 ```bash
 conda activate d2l
 
-# PyTorch
 pip install torch==<version> torchvision==<version>
 # pip install torch==2.0.0 torchvision==0.15.0
 
